@@ -1,0 +1,6 @@
+# Smart Expense Tracker - Core Dependencies
+reportlab>=4.0.0
+pillow>=10.0.0
+pymupdf>=1.24.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
